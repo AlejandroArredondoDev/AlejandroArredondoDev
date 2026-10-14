@@ -11,7 +11,7 @@ Este repositorio se encuentra actualmente en proceso de configuración y desarro
 * 🌐 **Frontend:** Interfaces dinámicas y limpias con **HTML5, CSS3 y JavaScript**.
 * ☕ **Backend:** Lógica y arquitectura robusta con **Java**.
 * 📊 **Bases de Datos:** Modelado y consultas eficientes con **SQL** y **Python** (Certificado por IBM).
-* ☁️ **Cloud** Despliegue y gestión de aplicaciones web en la nube con **Azure**
+* ☁️ **Cloud:** Despliegue y gestión de aplicaciones web en la nube con **Azure**
 
 ---
 
