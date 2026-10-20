@@ -8,9 +8,9 @@
 Este repositorio se encuentra actualmente en proceso de configuración y desarrollo técnico. Estoy aprovechando el verano para diseñar mis primeras aplicaciones estructuradas. 
 
 **Próximamente podrás ver aquí proyectos enfocados en:**
-* 🌐 **Frontend:** Interfaces dinámicas y limpias con **HTML5, CSS3 y JavaScript**.
-* ☕ **Backend:** Lógica y arquitectura robusta con **Java**.
-* 📊 **Bases de Datos:** Modelado y consultas eficientes con **SQL** (MySQL y MongoDB).
+* 🌐 **Frontend:** Interfaces dinámicas y limpias con **HTML5, CSS3 y JavaScript (React)**.
+* ☕ **Backend:** Lógica y arquitectura robusta con **Java**, **PHP** y en formación con **Node.js**
+* 📊 **Bases de Datos:** Modelado y consultas eficientes con **SQL** (MySQL).
 * ☁️ **Cloud:** Despliegue y gestión de aplicaciones web en la nube con **Azure** (Certificado AZ-900).
 
 ---
