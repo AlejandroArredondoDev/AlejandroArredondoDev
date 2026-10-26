@@ -1,4 +1,4 @@
-### 👋 ¡Hola y bienvenido a mi perfil de GitHub!
+### 👋 ¡Bienvenido a mi perfil de GitHub!
 
 Mi nombre es Alejandro Rodríguez Arredondo. Actualmente curso el segundo año del **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**, enfocando toda mi energía y pasión en la programación y el desarrollo de software.
 
